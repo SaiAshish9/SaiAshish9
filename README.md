@@ -6,8 +6,8 @@
 
 I won two hackathons and a special prize at another hackathon sponsored by Microsoft and currently working as a paid intern at Pracify and app town technologies. I'm a full stack web, cross-platform mobile app developer, computer science sophomore from MSIT, New Delhi. I like using typescript,Apollo,Prisma, firebase,postgres, graphql-subscriptions, postman, mongodb compass,materialUI ,antd,d3.js,django, graphene,docker,vuetify, styled-components, apexcharts in my projects .💖 I love cricket and my friends used to call me Bumrah because of my bowling action and 🏏 yorker's.           
 
-<p align="right" >
-👔 [linkedin][linkedin]
-</p>
+
+👔[linkedin][linkedin]
+
 
 [linkedin]: https://www.linkedin.com/in/sai-ashish-237784188/
