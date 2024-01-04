@@ -8,7 +8,6 @@ Basically, I'm from Hyderabad, India but I did my B.Tech graduation in computer 
 
 I passed out with a CGPA of 9.6 out of 10.
 
-Solarized dark             |  Solarized Ocean
 :-------------------------:|:-------------------------:
 ![a](https://github.com/SaiAshish9/SaiAshish9/assets/43849911/c0518fd2-1c66-4e81-a04b-8ef0227950ad)  |  ![a](https://github.com/SaiAshish9/SaiAshish9/assets/43849911/e811418c-3c6f-400b-94e4-7911fa3260ae)
 
