@@ -111,7 +111,7 @@ My project got shortlisted at Microsoft Teams App Development Challenge 2022 wor
 
 <br />
 
-<img width="1038" alt="Screenshot 2024-01-05 at 1 03 34 AM" src="https://github.com/SaiAshish9/SaiAshish9/assets/43849911/f73c572c-bf6b-43ce-9a63-92d9244ecf7e">
+<img width="100%" alt="Screenshot 2024-01-05 at 1 03 34 AM" src="https://github.com/SaiAshish9/SaiAshish9/assets/43849911/f73c572c-bf6b-43ce-9a63-92d9244ecf7e">
 
 <br />
 <br />
@@ -120,8 +120,7 @@ I've published 600+ medium blogs.
 
 <br />
 
-<img width="1792" alt="Screenshot 2024-01-05 at 1 31 58 AM" src="https://github.com/SaiAshish9/SaiAshish9/assets/43849911/5f70ff25-6e0c-4d02-ab7e-1c4d67f52dd5">
-
+<img width="100%" alt="Screenshot 2024-01-05 at 1 31 58 AM" src="https://github.com/SaiAshish9/SaiAshish9/assets/43849911/5f70ff25-6e0c-4d02-ab7e-1c4d67f52dd5">
 
 <br />
 <br />
@@ -130,7 +129,16 @@ My achievements were highlighted in my [college](https://msit.in) website.
 
 <br />
 
-<img width="1038" alt="Screenshot 2024-01-05 at 1 36 43 AM" src="https://github.com/SaiAshish9/SaiAshish9/assets/43849911/828af409-3aa3-4a01-9a9c-fb299b1d6a5d">
+<img width="100%" alt="Screenshot 2024-01-05 at 1 36 43 AM" src="https://github.com/SaiAshish9/SaiAshish9/assets/43849911/828af409-3aa3-4a01-9a9c-fb299b1d6a5d">
+
+<br />
+<br />
+
+I've one separate instagram account where I share content related to my youtube channel. Please follow.
+
+<br />
+
+<img width="100%" alt="Screenshot 2024-01-05 at 1 41 14 AM" src="https://github.com/SaiAshish9/SaiAshish9/assets/43849911/a2de1506-fec6-496a-8bc6-67e88a151bbd">
 
 <br />
 <br />
