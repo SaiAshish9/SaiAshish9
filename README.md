@@ -58,5 +58,9 @@ I worked at several other indian start-ups as an software development intern.
 
 <img width="100%" alt="Screenshot 2024-01-04 at 9 51 33 PM" src="https://github.com/SaiAshish9/SaiAshish9/assets/43849911/1e2b71bf-3a30-4e00-931d-ddacbf0ff4a2">
 
+<br />
+<br />
 
+I'm making my own leetcode clone where I'll add solutions (2K+) of leetcode.
+![lc](https://github.com/SaiAshish9/SaiAshish9/assets/43849911/7288ff8d-2cd5-4053-8007-784ecbbf1c0f)
 
