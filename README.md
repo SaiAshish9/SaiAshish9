@@ -18,4 +18,4 @@ Regarding my experience,
 
 I worked as an mobile application development intern at [LambdaTest](https://github.com/LambdaTest).
 
-<img width="50%" alt="Screenshot 2024-01-04 at 8 27 01 PM" src="https://github.com/SaiAshish9/SaiAshish9/assets/43849911/4ecce576-3b4e-420e-8550-1439e2ec448c" />
+<img width="1113" alt="Screenshot 2024-01-04 at 9 27 33 PM" src="https://github.com/SaiAshish9/SaiAshish9/assets/43849911/65c001f5-f3f7-4bd1-b50d-db53fc0d67ab">
