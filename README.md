@@ -45,6 +45,8 @@ I worked as an software development intern at [Paytm](https://paytm.com/), Noida
 
 I also worked as an application developer at a U.K. based organisation for about 1 year 7 months along with former Google London employee and Ukraine CTO.
 
+<br />
+
 <img width="100%" alt="Screenshot 2024-01-04 at 11 01 40 PM" src="https://github.com/SaiAshish9/SaiAshish9/assets/43849911/55bf467f-87cb-4c4f-8c20-e626447740ed">
 
 <br />
@@ -55,3 +57,6 @@ I worked at several other indian start-ups as an software development intern.
 <br />
 
 <img width="100%" alt="Screenshot 2024-01-04 at 9 51 33 PM" src="https://github.com/SaiAshish9/SaiAshish9/assets/43849911/1e2b71bf-3a30-4e00-931d-ddacbf0ff4a2">
+
+
+
