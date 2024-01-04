@@ -61,6 +61,15 @@ I worked at several other indian start-ups as an software development intern.
 <br />
 <br />
 
+Here are some of the technologies and tools I used in my experience:
+
+<br />
+
+<img width="100%" alt="Screenshot 2024-01-05 at 12 53 02 AM" src="https://github.com/SaiAshish9/SaiAshish9/assets/43849911/792d664b-1291-485a-a96e-9bf4dd2f9301">
+
+<br />
+<br />
+
 I've 1008+ solutions at dsa section of my [portfolio](https://saiashish9.vercel.app/en/).
 
 <br />
@@ -84,15 +93,6 @@ I've my own [youtube](https://www.youtube.com/@saiashish9/) channel where I publ
 
 ![yt_thumbnail](https://github.com/SaiAshish9/SaiAshish9/assets/43849911/a8ba8cca-892e-4dcb-9fc0-70168d92105b)
 
-<br />
-
-Here are some of the technologies and tools I used in my experience:
-
-<br />
-
-<img width="100%" alt="Screenshot 2024-01-05 at 12 53 02 AM" src="https://github.com/SaiAshish9/SaiAshish9/assets/43849911/792d664b-1291-485a-a96e-9bf4dd2f9301">
-
-<br />
 <br />
 
 I won several hackathons during my college.
