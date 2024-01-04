@@ -134,7 +134,7 @@ My achievements were highlighted in my [college](https://msit.in) website.
 <br />
 <br />
 
-I've one separate instagram account where I share content related to my youtube channel. Please follow.
+I've one separate [instagram](https://www.instagram.com/techie008/) account where I share content related to my youtube channel. Please follow.
 
 <br />
 
