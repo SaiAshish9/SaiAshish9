@@ -61,6 +61,17 @@ I worked at several other indian start-ups as an software development intern.
 <br />
 <br />
 
-I'm making my own leetcode clone where I'll add solutions (2K+) of leetcode.
-![lc](https://github.com/SaiAshish9/SaiAshish9/assets/43849911/7288ff8d-2cd5-4053-8007-784ecbbf1c0f)
+I've 1008+ solutions at dsa section of my portfolio:
 
+<br />
+
+<img width="100%" alt="Screenshot 2024-01-04 at 11 36 45 PM" src="https://github.com/SaiAshish9/SaiAshish9/assets/43849911/6f5a0bc0-1cbc-4602-9ab4-ae6dfe39f17f">
+
+<br />
+<br />
+
+I'm making my own leetcode clone where I'll add solutions (2K+) of leetcode.
+
+<br />
+
+![lc](https://github.com/SaiAshish9/SaiAshish9/assets/43849911/7288ff8d-2cd5-4053-8007-784ecbbf1c0f)
