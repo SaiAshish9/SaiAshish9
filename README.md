@@ -90,8 +90,21 @@ Here are some of the technologies and tools I used in my experience:
 
 <br />
 
-<img width="1031" alt="Screenshot 2024-01-05 at 12 53 02 AM" src="https://github.com/SaiAshish9/SaiAshish9/assets/43849911/792d664b-1291-485a-a96e-9bf4dd2f9301">
+<img width="100%" alt="Screenshot 2024-01-05 at 12 53 02 AM" src="https://github.com/SaiAshish9/SaiAshish9/assets/43849911/792d664b-1291-485a-a96e-9bf4dd2f9301">
 
+<br />
+<br />
+
+I won several hackathons during my college.
+
+<br />
+
+<img width="100%" alt="Screenshot 2024-01-05 at 1 08 29 AM" src="https://github.com/SaiAshish9/SaiAshish9/assets/43849911/b8cfa47c-c549-4c17-bab3-39038455a55f">
+<img width="100%" alt="Screenshot 2024-01-05 at 1 08 45 AM" src="https://github.com/SaiAshish9/SaiAshish9/assets/43849911/331939ff-4a2a-4b41-9475-f727862a8dce">
+<img width="100%" alt="Screenshot 2024-01-05 at 1 09 03 AM" src="https://github.com/SaiAshish9/SaiAshish9/assets/43849911/a9e44b20-93f5-49a8-abac-9cb4422023de">
+<img width="100%" alt="Screenshot 2024-01-05 at 1 09 28 AM" src="https://github.com/SaiAshish9/SaiAshish9/assets/43849911/31aeb7fe-94d9-4d08-9d6d-601b8eb9ed5f">
+
+<br />
 <br />
 
 My project got shortlisted at Microsoft Teams App Development Challenge 2022 worldwide.
