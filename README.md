@@ -75,3 +75,18 @@ I'm making my own leetcode clone where I'll add solutions (2K+) of leetcode.
 <br />
 
 ![lc](https://github.com/SaiAshish9/SaiAshish9/assets/43849911/7288ff8d-2cd5-4053-8007-784ecbbf1c0f)
+
+<br />
+<br />
+
+I've my own youtube channel where I publish educational content.
+
+<br />
+
+![yt_thumbnail](https://github.com/SaiAshish9/SaiAshish9/assets/43849911/a8ba8cca-892e-4dcb-9fc0-70168d92105b)
+
+<br />
+<br />
+
+Feel free to follow me on twitter and linked-in.
+
