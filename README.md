@@ -39,7 +39,7 @@ I worked as an software development intern at [Paytm](https://paytm.com/), Noida
 
 <br />
 
-<img width="100%" alt="Screenshot 2024-01-04 at 9 27 33 PM" src="https://github.com/SaiAshish9/SaiAshish9/assets/43849911/6ac76c3d-eb00-482d-90ed-af0f635102c7">
+<img width="100%" alt="Screenshot 2024-01-04 at 10 16 59 PM" src="https://github.com/SaiAshish9/SaiAshish9/assets/43849911/6dd4d533-80e4-4368-b68e-ffe8d07470a4">
 
 <br />
 <br />
