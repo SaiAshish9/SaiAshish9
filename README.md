@@ -93,6 +93,14 @@ Here are some of the technologies and tools I used in my experience:
 <img width="1031" alt="Screenshot 2024-01-05 at 12 53 02 AM" src="https://github.com/SaiAshish9/SaiAshish9/assets/43849911/792d664b-1291-485a-a96e-9bf4dd2f9301">
 
 <br />
+
+My project got shortlisted at Microsoft Teams App Development Challenge 2022 worldwide.
+
+<br />
+
+<img width="1038" alt="Screenshot 2024-01-05 at 1 03 34 AM" src="https://github.com/SaiAshish9/SaiAshish9/assets/43849911/f73c572c-bf6b-43ce-9a63-92d9244ecf7e">
+
+<br />
 <br />
 
 Feel free to follow me on [twitter](https://twitter.com/saiashish09/) and [linked-in](https://www.linkedin.com/in/%F0%9F%9A%80-sai-ashish-237784188/).
