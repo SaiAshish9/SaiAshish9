@@ -79,7 +79,7 @@ I'm making my own leetcode clone where I'll add solutions (2K+) of leetcode.
 <br />
 <br />
 
-I've my own youtube channel where I publish educational content.
+I've my own [youtube](https://www.youtube.com/@saiashish9/) channel where I publish educational content.
 
 <br />
 
@@ -88,5 +88,5 @@ I've my own youtube channel where I publish educational content.
 <br />
 <br />
 
-Feel free to follow me on twitter and linked-in.
+Feel free to follow me on [twitter](https://twitter.com/saiashish09/) and [linked-in](https://www.linkedin.com/in/%F0%9F%9A%80-sai-ashish-237784188/).
 
