@@ -77,7 +77,6 @@ I'm making my own leetcode clone where I'll add solutions (2K+) of leetcode.
 ![lc](https://github.com/SaiAshish9/SaiAshish9/assets/43849911/7288ff8d-2cd5-4053-8007-784ecbbf1c0f)
 
 <br />
-<br />
 
 I've my own [youtube](https://www.youtube.com/@saiashish9/) channel where I publish educational content.
 
@@ -85,7 +84,6 @@ I've my own [youtube](https://www.youtube.com/@saiashish9/) channel where I publ
 
 ![yt_thumbnail](https://github.com/SaiAshish9/SaiAshish9/assets/43849911/a8ba8cca-892e-4dcb-9fc0-70168d92105b)
 
-<br />
 <br />
 
 Here are some of the technologies and tools I used in my experience:
