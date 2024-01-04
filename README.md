@@ -116,5 +116,14 @@ My project got shortlisted at Microsoft Teams App Development Challenge 2022 wor
 <br />
 <br />
 
+I've published 600+ medium blogs.
+
+<br />
+
+<img width="1792" alt="Screenshot 2024-01-05 at 1 31 58 AM" src="https://github.com/SaiAshish9/SaiAshish9/assets/43849911/5f70ff25-6e0c-4d02-ab7e-1c4d67f52dd5">
+
+<br />
+<br />
+
 Feel free to follow me on [twitter](https://twitter.com/saiashish09/) and [linked-in](https://www.linkedin.com/in/%F0%9F%9A%80-sai-ashish-237784188/).
 
