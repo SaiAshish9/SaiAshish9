@@ -99,9 +99,9 @@ I won several hackathons during my college.
 
 <br />
 
-<img width="911" alt="Screenshot 2024-01-05 at 1 12 46 AM" src="https://github.com/SaiAshish9/SaiAshish9/assets/43849911/b5dca8d0-418f-4865-99f0-63aac6c56cc1">
-<img width="846" alt="Screenshot 2024-01-05 at 1 12 19 AM" src="https://github.com/SaiAshish9/SaiAshish9/assets/43849911/89f9be26-3185-42af-824b-a3087dfc351f">
-<img width="866" alt="Screenshot 2024-01-05 at 1 11 32 AM" src="https://github.com/SaiAshish9/SaiAshish9/assets/43849911/a555a5c8-faf5-4d1c-9a23-5a71c8247d2e">
+<img width="100%" alt="Screenshot 2024-01-05 at 1 12 46 AM" src="https://github.com/SaiAshish9/SaiAshish9/assets/43849911/b5dca8d0-418f-4865-99f0-63aac6c56cc1">
+<img width="100%" alt="Screenshot 2024-01-05 at 1 12 19 AM" src="https://github.com/SaiAshish9/SaiAshish9/assets/43849911/89f9be26-3185-42af-824b-a3087dfc351f">
+<img width="100%" alt="Screenshot 2024-01-05 at 1 11 32 AM" src="https://github.com/SaiAshish9/SaiAshish9/assets/43849911/a555a5c8-faf5-4d1c-9a23-5a71c8247d2e">
 <img width="100%" alt="Screenshot 2024-01-05 at 1 09 28 AM" src="https://github.com/SaiAshish9/SaiAshish9/assets/43849911/31aeb7fe-94d9-4d08-9d6d-601b8eb9ed5f">
 
 <br />
