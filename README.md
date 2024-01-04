@@ -8,7 +8,4 @@ Basically, I'm from Hyderabad, India but I did my B.Tech graduation in computer 
 
 I passed out with a CGPA of 9.6 out of 10.
 
-<p float="left" >
-  <img src="https://github.com/SaiAshish9/SaiAshish9/assets/43849911/c0518fd2-1c66-4e81-a04b-8ef0227950ad" width="48%" height="250" />
-  <img src="https://github.com/SaiAshish9/SaiAshish9/assets/43849911/e811418c-3c6f-400b-94e4-7911fa3260ae" width="48%" height="250" />
-</p>
+<img width="100%" alt="Screenshot 2024-01-04 at 8 27 01 PM" src="https://github.com/SaiAshish9/SaiAshish9/assets/43849911/376e0b12-7c59-439f-8ee9-3cc82912abe3">
