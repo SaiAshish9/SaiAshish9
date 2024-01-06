@@ -43,7 +43,7 @@ I worked as an software development intern at [Paytm](https://paytm.com/), Noida
 <br />
 <br />
 
-I also worked as an application developer at a U.K. based organisation for about 1 year 7 months along with former Google London employee and Ukraine CTO.
+I also worked as an application developer at a U.K. based organisation for about 1 year 7 months along with former Google London employee and Ukraine developer.
 
 <br />
 
