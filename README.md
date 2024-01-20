@@ -19,8 +19,7 @@ Regarding my experience,
 After graduation, I started working as a full stack developer at [Tekion Corp](https://www.linkedin.com/company/tekion/mycompany), Bengaluru, India.
 
 <br />
-
-<img width="100%" alt="Screenshot 2024-01-04 at 9 44 18 PM" src="https://github.com/SaiAshish9/SaiAshish9/assets/43849911/73f45400-418b-48db-adc7-54a4829a050f">
+<img width="100%" alt="Screenshot 2024-01-20 at 2 10 29 PM" src="https://github.com/SaiAshish9/SaiAshish9/assets/43849911/6adaa223-3efb-48c9-a22f-ebaecf0ab200">
 
 <br />
 <br />
@@ -139,6 +138,25 @@ I've one separate [instagram](https://www.instagram.com/techie008/) account wher
 <br />
 
 <img width="100%" alt="Screenshot 2024-01-05 at 1 41 14 AM" src="https://github.com/SaiAshish9/SaiAshish9/assets/43849911/a2de1506-fec6-496a-8bc6-67e88a151bbd">
+
+<br />
+<br />
+
+Here is a compilation of the languages I am proficient in:
+
+<br />
+
+1. Hindi
+1. English
+1. Telugu
+   
+<br />
+
+I've 10,000+ followers at [linked-in](https://www.linkedin.com/in/%F0%9F%9A%80-sai-ashish-237784188/):
+
+<br />
+
+<img width="800" alt="Screenshot 2024-01-20 at 2 26 06 PM" src="https://github.com/SaiAshish9/SaiAshish9/assets/43849911/3c027696-c2f0-44c9-952c-3cef57ee0827">
 
 <br />
 <br />
