@@ -156,7 +156,7 @@ I've 10,000+ followers at [linked-in](https://www.linkedin.com/in/%F0%9F%9A%80-s
 
 <br />
 
-<img width="800" alt="Screenshot 2024-01-20 at 2 26 06 PM" src="https://github.com/SaiAshish9/SaiAshish9/assets/43849911/3c027696-c2f0-44c9-952c-3cef57ee0827">
+<img width="100%" alt="Screenshot 2024-01-20 at 2 26 06 PM" src="https://github.com/SaiAshish9/SaiAshish9/assets/43849911/3c027696-c2f0-44c9-952c-3cef57ee0827">
 
 <br />
 <br />
