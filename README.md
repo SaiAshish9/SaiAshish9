@@ -42,7 +42,7 @@ I worked as an software development intern at [Paytm](https://paytm.com/), Noida
 <br />
 <br />
 
-I worked at a US based Stealth GenAI StartUp as an mobile application developer owned by a former Google France Bard AI, Facebook USA researcher, IIT Bombay students and IIT Kanpur students:
+Worked as an mobile applications developer at US based Stealth GenAI EdTech Startup along with former employees from Google France Bard AI, Facebook USA AI, Microsoft USA, Huawei, Amazon USA, Nutanix, MasterCard, as well as developers from the U.S., Switzerland, graduates from IIT Kanpur, IIT Bombay, UC Berkeley, Stanford and UMass Amherst in the US.
 
 <br />
 
