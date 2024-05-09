@@ -40,9 +40,17 @@ I worked as an software development intern at [Paytm](https://paytm.com/), Noida
 <img width="100%" alt="Screenshot 2024-01-05 at 1 22 17 AM" src="https://github.com/SaiAshish9/SaiAshish9/assets/43849911/95a8dbc3-8ec0-4fc7-b8bf-714417a45a42">
 
 <br />
+
+I worked at a US based Stealth GenAI StartUp as an mobile application developer owned by a former Google France Bard AI, Facebook USA researcher, IIT Bombay students and IIT Kanpur students:
+
 <br />
 
-I also worked as an application developer at a U.K. based organisation for about 1 year 7 months along with former Google London employee and Ukraine developer.
+<img width="100%" alt="Screenshot 2024-05-09 at 3 23 12 PM" src="https://github.com/SaiAshish9/SaiAshish9/assets/43849911/55329cbb-847e-47b3-9f24-f00e670f386c">
+
+<br />
+<br />
+
+I also worked as an mobile application developer at a U.K. based organisation for about 1 year 7 months along with former Google London employee and Ukraine developer.
 
 <br />
 
@@ -78,7 +86,7 @@ I've 1008+ solutions at dsa section of my [portfolio](https://saiashish9.vercel.
 <br />
 <br />
 
-I'm making my own leetcode clone where I'll add solutions (2K+) of leetcode.
+I'm making my own leetcode clone where I'll add solutions (3K+) of leetcode.
 
 <br />
 
