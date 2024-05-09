@@ -40,6 +40,7 @@ I worked as an software development intern at [Paytm](https://paytm.com/), Noida
 <img width="100%" alt="Screenshot 2024-01-05 at 1 22 17 AM" src="https://github.com/SaiAshish9/SaiAshish9/assets/43849911/95a8dbc3-8ec0-4fc7-b8bf-714417a45a42">
 
 <br />
+<br />
 
 I worked at a US based Stealth GenAI StartUp as an mobile application developer owned by a former Google France Bard AI, Facebook USA researcher, IIT Bombay students and IIT Kanpur students:
 
