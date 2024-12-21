@@ -16,7 +16,14 @@ I passed out with a CGPA of 9.6 in 2022.
 
 Regarding my experience, 
 
-After graduation, I started working as a full stack developer at [Tekion Corp](https://www.linkedin.com/company/tekion/mycompany), Bengaluru, India.
+I'm currently working as a ful stack developer at [Magnifi](https://magnifi.ai/) by [VideoVerse](https://vverse.ai/) remotely.
+
+<br />
+<img width="100%" alt="Screenshot 2024-01-20 at 2 10 29 PM" src="https://github.com/user-attachments/assets/e0725084-0013-47d2-85b2-7901a670d585">
+<br />
+<br />
+
+After graduation, I worked as a full stack developer at [Tekion Corp](https://www.linkedin.com/company/tekion/mycompany), Bengaluru, India.
 
 <br />
 <img width="100%" alt="Screenshot 2024-01-20 at 2 10 29 PM" src="https://github.com/SaiAshish9/SaiAshish9/assets/43849911/6adaa223-3efb-48c9-a22f-ebaecf0ab200">
