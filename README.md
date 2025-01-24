@@ -22,6 +22,9 @@ I'm currently working as a ful stack developer at [Magnifi](https://magnifi.ai/)
 <img width="100%" alt="Screenshot 2024-01-20 at 2 10 29 PM" src="https://github.com/user-attachments/assets/e0725084-0013-47d2-85b2-7901a670d585">
 <br />
 <br />
+https://www.linkedin.com/posts/magnifiofficial_ruleengine-productfeature-automation-ugcPost-7287816489074647040-jczS?utm_source=share&utm_medium=member_desktop
+<br />
+<br />
 
 After graduation, I worked as a full stack developer at [Tekion Corp](https://www.linkedin.com/company/tekion/mycompany), Bengaluru, India.
 
