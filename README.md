@@ -85,7 +85,7 @@ Here are some of the technologies and tools I used in my experience:
 <br />
 <br />
 
-I've 1008+ solutions at dsa section of my [portfolio](https://saiashish9.vercel.app/en/).
+I've added 1008+ solutions at dsa section of my [portfolio](https://saiashish9.vercel.app/en/).
 
 <br />
 
