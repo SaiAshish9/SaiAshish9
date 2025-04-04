@@ -1,4 +1,4 @@
-Hey 👋,
+![WhatsApp Image 2025-04-04 at 12 30 25](https://github.com/user-attachments/assets/5f0a0109-c6c7-477f-9b6c-06bd851f37cb)Hey 👋,
 
 I hope you're doing well!
 
@@ -62,6 +62,7 @@ I also worked as an mobile application developer at a U.K. based organisation fo
 
 <br />
 <img width="100%" alt="Screenshot 2024-01-04 at 11 01 40 PM" src="https://github.com/user-attachments/assets/1211ca5a-1b22-40ff-b06e-8013272e4ad7">
+![WhatsApp Image 2025-04-04 at 12 30 25](https://github.com/user-attachments/assets/7b1f6aed-cd19-46cb-9a63-c8c19043f181)
 <img width="100%" alt="Screenshot 2024-01-04 at 11 01 40 PM" src="https://github.com/SaiAshish9/SaiAshish9/assets/43849911/55bf467f-87cb-4c4f-8c20-e626447740ed">
 
 <br />
