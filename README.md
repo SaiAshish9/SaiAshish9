@@ -168,7 +168,7 @@ Here is a compilation of the languages I am proficient in:
    
 <br />
 
-I've 10,000+ followers at [linked-in](https://www.linkedin.com/in/%F0%9F%9A%80-sai-ashish-237784188/):
+I've 17,000+ followers at [linked-in](https://www.linkedin.com/in/%F0%9F%9A%80-sai-ashish-237784188/):
 
 <br />
 
