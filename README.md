@@ -1,4 +1,4 @@
-![WhatsApp Image 2025-04-04 at 12 30 25](https://github.com/user-attachments/assets/5f0a0109-c6c7-477f-9b6c-06bd851f37cb)Hey 👋,
+Hey 👋,
 
 I hope you're doing well!
 
