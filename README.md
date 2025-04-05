@@ -35,6 +35,11 @@ I worked as an mobile application development intern at [LambdaTest](https://git
 
 <br />
 
+<img width="502" alt="Screenshot 2025-04-05 at 2 03 04 PM" src="https://github.com/user-attachments/assets/7e9d76ab-44ab-4c1e-875f-1ad5f4d94b2f" />
+
+<br />
+<br />
+
 <img width="100%" alt="Screenshot 2024-01-04 at 9 27 33 PM" src="https://github.com/SaiAshish9/SaiAshish9/assets/43849911/65c001f5-f3f7-4bd1-b50d-db53fc0d67ab">
 
 <br />
