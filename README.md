@@ -35,7 +35,6 @@ I worked as an mobile application development intern at [LambdaTest](https://git
 
 <br />
 
-
 https://github.com/user-attachments/assets/b4d6014e-ed35-4db1-aebe-e60f4674bd0b <br/>
 https://github.com/user-attachments/assets/8d2e51af-ae5a-4ee2-8d54-42b482df540f <br/>
 https://github.com/user-attachments/assets/b2e2a49c-1a1d-4cbd-bffa-7e918851ff21 <br/>
