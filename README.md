@@ -185,4 +185,9 @@ I've 17,000+ followers at [linked-in](https://www.linkedin.com/in/%F0%9F%9A%80-s
 <br />
 <br />
 
+<img width="756" alt="Screenshot 2025-06-07 at 1 20 23 PM" src="https://github.com/user-attachments/assets/046a6ba8-8dda-47a9-ae19-2c1e2b4be2ae" />
+
+<br />
+<br />
+
 Feel free to follow me on [twitter](https://twitter.com/saiashish09/) and [linked-in](https://www.linkedin.com/in/%F0%9F%9A%80-sai-ashish-237784188/).
