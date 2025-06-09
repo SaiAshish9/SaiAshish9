@@ -190,7 +190,7 @@ I've 17,000+ followers at [linked-in](https://www.linkedin.com/in/%F0%9F%9A%80-s
 <br />
 <br />
 
-<img width="100%" alt="Screenshot 2025-06-09 at 8 12 19 AM" src="https://github.com/user-attachments/assets/c0890628-4699-40ff-a1fb-ec7eacee6e43" />
+<img width="100%" alt="Screenshot 2025-06-09 at 8 17 35 AM" src="https://github.com/user-attachments/assets/73c832e7-66af-413f-9faf-da54f94cdc4a" />
 
 <br />
 <br />
