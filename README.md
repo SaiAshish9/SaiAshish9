@@ -16,7 +16,7 @@ I passed out with a CGPA of 9.6 in 2022.
 
 Regarding my experience, 
 
-I'm currently working as a ful stack developer at [Magnifi](https://magnifi.ai/) by [VideoVerse](https://vverse.ai/) remotely.
+I'm currently working as a full stack developer at [Magnifi](https://magnifi.ai/) by [VideoVerse](https://vverse.ai/) remotely.
 
 <br />
 <img width="100%" alt="Screenshot 2024-01-20 at 2 10 29 PM" src="https://github.com/user-attachments/assets/e0725084-0013-47d2-85b2-7901a670d585">
