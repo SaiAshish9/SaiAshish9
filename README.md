@@ -65,6 +65,11 @@ Worked as an mobile applications developer at US based Stealth GenAI EdTech Star
 <br />
 <br />
 
+<img width="100%" alt="Screenshot 2024-01-04 at 11 01 40 PM" src="https://github.com/user-attachments/assets/7b1f6aed-cd19-46cb-9a63-c8c19043f181">
+
+<br />
+<br />
+
 I also worked as an mobile application developer at a U.K. based organisation for about 1 year 7 months along with former Google London employee and Ukraine developer.
 
 <br />
