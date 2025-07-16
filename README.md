@@ -179,7 +179,7 @@ Here is a compilation of the languages I am proficient in:
    
 <br />
 
-I've 17,000+ followers at [linked-in](https://www.linkedin.com/in/%F0%9F%9A%80-sai-ashish-237784188/):
+I've 19,000+ followers at [linked-in](https://www.linkedin.com/in/%F0%9F%9A%80-sai-ashish-237784188/):
 
 <br />
 
@@ -188,7 +188,7 @@ I've 17,000+ followers at [linked-in](https://www.linkedin.com/in/%F0%9F%9A%80-s
 <br />
 <br />
 
-<img width="100%" alt="Screenshot 2025-06-07 at 1 20 23 PM" src="https://github.com/user-attachments/assets/046a6ba8-8dda-47a9-ae19-2c1e2b4be2ae" />
+<img width="100%" alt="Screenshot 2024-01-20 at 2 26 06 PM" src="https://github.com/user-attachments/assets/753736e5-9cc3-4ca5-ab2b-e43f4d180929">
 
 <br />
 <br />
