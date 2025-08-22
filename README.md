@@ -4,9 +4,10 @@ I hope you're doing well!
 
 Myself Sai Ashish, application developer.
 
-Basically, I'm from Hyderabad, India but I did my B.Tech graduation in computer science from Indraprastha University, New Delhi. 
+I’m originally from Hyderabad, India, but I completed my B.Tech in Computer Science from MSIT, Indraprastha University, New Delhi.
 
 I passed out with a CGPA of 9.6 in 2022.
+🔗 https://www.ipuranklist.com/student/09315002718
 
 <br />
 
@@ -16,7 +17,7 @@ I passed out with a CGPA of 9.6 in 2022.
 
 Regarding my experience, 
 
-I'm currently working as a full stack developer at [Magnifi](https://magnifi.ai/) by [VideoVerse](https://vverse.ai/) remotely.
+I worked as a full stack developer at [Magnifi](https://magnifi.ai/) by [VideoVerse](https://vverse.ai/) remotely.
 
 <br />
 <img width="100%" alt="Screenshot 2024-01-20 at 2 10 29 PM" src="https://github.com/user-attachments/assets/e0725084-0013-47d2-85b2-7901a670d585">
@@ -56,7 +57,7 @@ I worked as an software development intern at [Paytm](https://paytm.com/), Noida
 <br />
 <br />
 
-Worked as an mobile applications developer at US based Stealth GenAI EdTech Startup along with former employees from Google France Bard AI, Facebook USA AI, Microsoft USA, Huawei, Amazon USA, Nutanix, MasterCard, as well as developers from the U.S., Switzerland, graduates from IIT Kanpur, IIT Bombay, UC Berkeley, Stanford and UMass Amherst in the US.
+Worked as an mobile applications developer at US based GenAI EdTech Startup SigIQ.ai along with former employees from Google France Bard AI, Facebook USA AI, Microsoft USA, Huawei, Amazon USA, Nutanix, MasterCard, as well as developers from the U.S., Switzerland, graduates from IIT Kanpur, IIT Bombay, UC Berkeley, Stanford and UMass Amherst in the US.
 
 <br />
 
@@ -105,7 +106,7 @@ I've added 1008+ solutions at dsa section of my [portfolio](https://saiashish9.v
 <br />
 <br />
 
-I'm making my own leetcode clone where I'll add solutions (3K+) of leetcode.
+I've made my own leetcode clone where I'll add solutions (3K+) of leetcode.
 
 <br />
 
@@ -113,7 +114,7 @@ I'm making my own leetcode clone where I'll add solutions (3K+) of leetcode.
 
 <br />
 
-I've my own [youtube](https://www.youtube.com/@saiashish9/) channel where I publish educational content.
+I've had my experimental [youtube](https://www.youtube.com/@saiashish9/) channel where I publish educational content.
 
 <br />
 
@@ -160,7 +161,7 @@ My achievements were highlighted in my [college](https://msit.in) website.
 <br />
 <br />
 
-I've one separate [instagram](https://www.instagram.com/techie008/) account where I share content related to my youtube channel. Please follow.
+I've one separate experimental [instagram](https://www.instagram.com/techie008/) account where I share content related to my youtube channel. Please follow.
 
 <br />
 
