@@ -6,7 +6,7 @@ Myself Sai Ashish, application developer.
 
 I’m originally from Hyderabad, India, but I completed my B.Tech in Computer Science from MSIT, Indraprastha University, New Delhi.
 
-I passed out with a CGPA of 9.6 in 2022.
+I passed out with a CGPA of 9.6 in 2022. <br /><br />
 🔗 https://www.ipuranklist.com/student/09315002718
 
 <br />
