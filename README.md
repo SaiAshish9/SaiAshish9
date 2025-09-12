@@ -170,6 +170,16 @@ I've one separate experimental [instagram](https://www.instagram.com/techie008/)
 <br />
 <br />
 
+Following are the instructors I've followed as a college student:
+
+<br />
+
+<img width="100%" alt="Screenshot 2025-09-12 at 12 58 35 PM" src="https://github.com/user-attachments/assets/543de607-fcc4-425e-ae13-4d63ef7b6e3f" />
+<img width="100%" alt="Screenshot 2025-09-12 at 1 00 41 PM" src="https://github.com/user-attachments/assets/75d69ea5-ee87-41fe-97bf-4d33a917e4a9" />
+
+<br />
+<br />
+
 Here is a compilation of the languages I am proficient in:
 
 <br />
