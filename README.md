@@ -218,5 +218,6 @@ Here is a compilation of the languages I am proficient in:
 <img width="100%" alt="Screenshot 2025-09-21 at 4 28 14 PM" src="https://github.com/user-attachments/assets/0d4ca01c-a49b-40c4-b838-cf777e1331ac" />
 
 <br />
+<br />
 
 Feel free to follow me on [twitter](https://twitter.com/saiashish09/) and [linked-in](https://www.linkedin.com/in/%F0%9F%9A%80-sai-ashish-237784188/).
