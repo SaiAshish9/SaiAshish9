@@ -187,10 +187,6 @@ Here is a compilation of the languages I am proficient in:
 1. Hindi
 1. English
 1. Telugu
-   
-<br />
-
-I've 19,000+ followers at [linked-in](https://www.linkedin.com/in/%F0%9F%9A%80-sai-ashish-237784188/):
 
 <br />
 
@@ -207,6 +203,20 @@ I've 19,000+ followers at [linked-in](https://www.linkedin.com/in/%F0%9F%9A%80-s
 <img width="100%" alt="Screenshot 2025-06-09 at 8 17 35 AM" src="https://github.com/user-attachments/assets/73c832e7-66af-413f-9faf-da54f94cdc4a" />
 
 <br />
+<br />
+
+<img width="100%" alt="Screenshot 2025-06-09 at 8 17 35 AM" src="https://github.com/user-attachments/assets/73c832e7-66af-413f-9faf-da54f94cdc4a" />
+
+<br />
+<br />
+
+<img width="100%" alt="Screenshot 2025-09-21 at 4 25 00 PM" src="https://github.com/user-attachments/assets/0ce4a0c1-c2f0-4463-b3ac-7edf94ac4235" />
+
+<br />
+<br />
+
+<img width="100%" alt="Screenshot 2025-09-21 at 4 28 14 PM" src="https://github.com/user-attachments/assets/0d4ca01c-a49b-40c4-b838-cf777e1331ac" />
+
 <br />
 
 Feel free to follow me on [twitter](https://twitter.com/saiashish09/) and [linked-in](https://www.linkedin.com/in/%F0%9F%9A%80-sai-ashish-237784188/).
