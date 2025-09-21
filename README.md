@@ -205,11 +205,6 @@ Here is a compilation of the languages I am proficient in:
 <br />
 <br />
 
-<img width="100%" alt="Screenshot 2025-06-09 at 8 17 35 AM" src="https://github.com/user-attachments/assets/73c832e7-66af-413f-9faf-da54f94cdc4a" />
-
-<br />
-<br />
-
 <img width="100%" alt="Screenshot 2025-09-21 at 4 25 00 PM" src="https://github.com/user-attachments/assets/0ce4a0c1-c2f0-4463-b3ac-7edf94ac4235" />
 
 <br />
