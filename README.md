@@ -71,7 +71,7 @@ Worked as an mobile applications developer at US based GenAI EdTech Startup SigI
 <br />
 <br />
 
-I also worked as an mobile application developer at a U.K. based organisation for about 1 year 7 months along with former Google London employee, Brazil founder and Ukraine developer.
+I also worked as an mobile application developer at a U.K. based organisation for about 1 year 7 months along with former Google San Francisco, KFC London, Sky London employee, Brazil founder and Ukraine developer.
 
 <br />
 <img width="100%" alt="Screenshot 2024-01-04 at 11 01 40 PM" src="https://github.com/SaiAshish9/SaiAshish9/assets/43849911/55bf467f-87cb-4c4f-8c20-e626447740ed">
