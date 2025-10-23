@@ -216,7 +216,9 @@ Here is a compilation of the languages I am proficient in:
 <br />
 
 
-I cured my overweight via cycling and swimming.
+I overcame the weight I had gained since college—caused by sleepless nights—through consistent cycling and swimming, losing 27 kg in the process, a testament to my passion and discipline.
+
+<br />
 
 <img width="100%" alt="Screenshot 2025-10-23 at 10 26 43 AM" src="https://github.com/user-attachments/assets/615f9216-a5a5-452e-9497-0e8b9fd33be2" />
 <img width="100%" alt="Screenshot 2025-10-23 at 10 26 43 AM" src="https://github.com/user-attachments/assets/06310ce5-bed0-4472-94ab-5892f0c504a4" />
