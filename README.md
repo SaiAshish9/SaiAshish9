@@ -216,7 +216,7 @@ Here is a compilation of the languages I am proficient in:
 <br />
 
 
-I overcame the weight I had gained since college—caused by sleepless nights—through consistent cycling and swimming, losing 27 kg in the process, a testament to my passion and discipline.
+I overcame the weight I had gained since college caused by sleepless nights through consistent cycling and swimming, losing 27 kg in the process, a testament to my passion and discipline.
 
 <br />
 
