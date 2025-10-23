@@ -205,7 +205,7 @@ Here is a compilation of the languages I am proficient in:
 <br />
 <br />
 
-<img width="100%" alt="Screenshot 2025-09-21 at 4 25 00 PM" src="https://github.com/user-attachments/assets/0ce4a0c1-c2f0-4463-b3ac-7edf94ac4235" />
+<img width="100%" alt="Screenshot 2025-10-23 at 10 24 46 AM" src="https://github.com/user-attachments/assets/b99af67e-2401-4b26-a4d7-67772dc9b721" />
 
 <br />
 <br />
@@ -215,4 +215,14 @@ Here is a compilation of the languages I am proficient in:
 <br />
 <br />
 
+
+I cured my overweight via cycling and swimming.
+
+<img width="100%" alt="Screenshot 2025-10-23 at 10 26 43 AM" src="https://github.com/user-attachments/assets/615f9216-a5a5-452e-9497-0e8b9fd33be2" />
+<img width="100%" alt="Screenshot 2025-10-23 at 10 26 43 AM" src="https://github.com/user-attachments/assets/06310ce5-bed0-4472-94ab-5892f0c504a4" />
+
+<br />
+<br />
+
 Feel free to follow me on [twitter](https://twitter.com/saiashish09/) and [linked-in](https://www.linkedin.com/in/%F0%9F%9A%80-sai-ashish-237784188/).
+
