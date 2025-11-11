@@ -184,9 +184,10 @@ Here is a compilation of the languages I am proficient in:
 
 <br />
 
-1. Hindi
 1. English
-1. Telugu
+2. German
+3. Hindi
+4. Telugu
 
 <br />
 
