@@ -181,7 +181,6 @@ Following are the instructors I've followed as a college student:
 <br />
 
 Here is a compilation of the languages I am proficient in:
-
 <br />
 
 1. English
