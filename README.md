@@ -61,12 +61,7 @@ Worked as an mobile applications developer at US based GenAI EdTech Startup SigI
 
 <br />
 
-<img width="100%" alt="Screenshot 2024-05-09 at 3 23 12 PM" src="https://github.com/SaiAshish9/SaiAshish9/assets/43849911/55329cbb-847e-47b3-9f24-f00e670f386c">
-
-<br />
-<br />
-
-<img width="100%" alt="Screenshot 2024-01-04 at 11 01 40 PM" src="https://github.com/user-attachments/assets/7b1f6aed-cd19-46cb-9a63-c8c19043f181">
+<img width="100%" alt="Screenshot 2024-05-09 at 3 23 12 PM" src="https://github.com/user-attachments/assets/58ffedc0-a721-408a-963d-efdc3db2f2ae">
 
 <br />
 <br />
