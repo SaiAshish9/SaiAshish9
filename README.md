@@ -60,8 +60,7 @@ I worked as an software development intern at [Paytm](https://paytm.com/), Noida
 Worked as an mobile applications developer at US based GenAI EdTech Startup SigIQ.ai along with former employees from Google France Bard AI, Facebook USA AI, Microsoft USA, Huawei, Amazon USA, Nutanix, MasterCard, as well as developers from the U.S., Switzerland, graduates from IIT Kanpur, IIT Bombay, UC Berkeley, Stanford and UMass Amherst in the US.
 
 <br />
-
-<img width="100%" alt="Screenshot 2024-05-09 at 3 23 12 PM" src="https://github.com/user-attachments/assets/58ffedc0-a721-408a-963d-efdc3db2f2ae">
+<img width="100%" alt="Screenshot 2026-02-15 at 5 53 32 PM" src="https://github.com/user-attachments/assets/1a6ef0e0-27cd-4a08-aa00-92cbd8943ac3" />
 
 <br />
 <br />
