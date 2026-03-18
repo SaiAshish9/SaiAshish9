@@ -1,5 +1,3 @@
-<img width="1440" height="900" alt="Screenshot 2026-03-18 at 9 06 53 PM" src="https://github.com/user-attachments/assets/9e92927f-091a-4021-82d6-6d915da8dc49" />Hey 👋,
-
 I hope you're doing well!
 
 Myself Sai Ashish, application developer.
@@ -230,6 +228,9 @@ I overcame the weight I had gained since college caused by sleepless nights thro
 <br />
 
 https://buymeacoffee.com/saiashish9
+
+<br />
+
 <img width="100%" height="900" alt="Screenshot 2026-03-18 at 9 06 53 PM" src="https://github.com/user-attachments/assets/0fd12c34-a128-4d6d-8ac6-21977e716d9a" />
 
 <br />
