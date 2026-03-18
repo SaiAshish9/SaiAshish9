@@ -210,6 +210,10 @@ Here is a compilation of the languages I am proficient in:
 <br />
 <br />
 
+<img width="100%" alt="a" src="https://github.com/user-attachments/assets/16ad9784-6740-46a2-8c24-f66d77100f56" />
+
+<br />
+<br />
 
 I overcame the weight I had gained since college caused by sleepless nights through consistent cycling and swimming, losing 27 kg in the process, a testament to my passion and discipline.
 
