@@ -223,9 +223,8 @@ I overcame the weight I had gained since college caused by sleepless nights thro
 <img width="100%" alt="Screenshot 2025-10-23 at 10 26 43 AM" src="https://github.com/user-attachments/assets/06310ce5-bed0-4472-94ab-5892f0c504a4" />
 
 <br />
-<br />
 
-<img width="640" height="300" alt="th" src="https://github.com/user-attachments/assets/50c51988-21ce-48b4-a2e0-c1681dacb8f2" />
+<img width="100%" height="300" alt="th" src="https://github.com/user-attachments/assets/50c51988-21ce-48b4-a2e0-c1681dacb8f2" />
 
 <br />
 <br />
