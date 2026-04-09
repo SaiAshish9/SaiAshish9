@@ -236,8 +236,7 @@ https://buymeacoffee.com/saiashish9
 <br />
 <br />
 
-Book a 1:1 slot with me on topmate:
-https://topmate.io/saiashish9
+Book a 1:1 slot with me on [topmate.io](https://topmate.io/saiashish9):
 
 <br />
 
