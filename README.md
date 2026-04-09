@@ -236,7 +236,7 @@ https://buymeacoffee.com/saiashish9
 <br />
 <br />
 
-Book a 1:1 slot with me on [topmate.io](https://topmate.io/saiashish9):
+Book a 1:1 slot with me on [topmate.io](https://topmate.io/saiashish9). I’ll email the professional development certificate(s) after the sessions along with reference numbers
 
 <br />
 
