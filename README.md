@@ -244,5 +244,7 @@ Book a 1:1 slot with me on [topmate.io](https://topmate.io/saiashish9):
 
 <br />
 <br />
-Feel free to follow me on [twitter](https://twitter.com/saiashish09/) and [linked-in](https://www.linkedin.com/in/%F0%9F%9A%80-sai-ashish-237784188/).
+
+Feel free to follow me on [twitter](https://twitter.com/saiashish09) 
+and [linked-in](https://www.linkedin.com/in/%F0%9F%9A%80-sai-ashish-237784188).
 
