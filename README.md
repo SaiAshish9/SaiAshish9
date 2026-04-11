@@ -81,7 +81,7 @@ I worked at several other indian start-ups as an software development intern.
 <br />
 <br />
 
-<img width="240" height="150" alt="a" src="https://github.com/user-attachments/assets/ae3bd953-3c46-4780-8062-ea3d60b0f882" />
+<img width="100%" alt="a" src="https://github.com/user-attachments/assets/ae3bd953-3c46-4780-8062-ea3d60b0f882" />
 
 <br />
 <br />
