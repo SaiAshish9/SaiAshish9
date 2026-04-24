@@ -182,7 +182,7 @@ I was the Class 11th topper, honored at the Andhra Assoc DL & Thyagaraj stadium
 
 <br />
 
-<img width="100%" height="149" alt="Screenshot 2026-04-24 at 10 02 16 AM" src="https://github.com/user-attachments/assets/4a20630e-42bd-4f12-a765-9e54023351d1" />
+<img width="100%" alt="Screenshot 2026-04-24 at 10 02 16 AM" src="https://github.com/user-attachments/assets/4a20630e-42bd-4f12-a765-9e54023351d1" />
 
 <br />
 <br />
@@ -236,7 +236,7 @@ I overcame the weight I had gained since college caused by sleepless nights thro
 
 <br />
 
-<img width="100%" height="300" alt="th" src="https://github.com/user-attachments/assets/50c51988-21ce-48b4-a2e0-c1681dacb8f2" />
+<img width="100%" height="900" alt="th" src="https://github.com/user-attachments/assets/50c51988-21ce-48b4-a2e0-c1681dacb8f2" />
 
 <br />
 <br />
