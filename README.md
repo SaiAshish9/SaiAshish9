@@ -238,7 +238,6 @@ Here is a compilation of the languages I am proficient in:
 I overcame the weight I had gained since college caused by sleepless nights through consistent cycling and swimming, losing 27 kg in the process, a testament to my passion and discipline.
 
 <br />
-<br />
 
 <img width="100%" alt="Screenshot 2026-04-30 at 10 37 33 AM" src="https://github.com/user-attachments/assets/723837e7-3d12-43df-bd45-e5609e646020" />
 
