@@ -68,7 +68,7 @@ I also worked as an mobile application developer at a U.K. based organisation fo
 <br />
 <img width="100%" alt="Screenshot 2026-02-15 at 5 55 26 PM" src="https://github.com/user-attachments/assets/c66fe624-8b30-4fb1-bbc6-17705622c97e" />
 <img width="100%" alt="Screenshot 2024-01-04 at 11 01 40 PM" src="https://github.com/SaiAshish9/SaiAshish9/assets/43849911/55bf467f-87cb-4c4f-8c20-e626447740ed">
-<img width="100%" height="409" alt="Screenshot 2026-05-02 at 4 44 27 PM" src="https://github.com/user-attachments/assets/5d42b229-bbba-4187-bda7-0d62ef117894" />
+<img width="100%" alt="Screenshot 2026-05-02 at 4 44 27 PM" src="https://github.com/user-attachments/assets/5d42b229-bbba-4187-bda7-0d62ef117894" />
 
 <br />
 <br />
