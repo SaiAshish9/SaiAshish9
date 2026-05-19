@@ -271,7 +271,6 @@ Book a 1:1 slot with me on [topmate.io](https://topmate.io/saiashish9). I’ll e
 ![1](https://github.com/user-attachments/assets/9c0222d4-4ad6-429f-aef8-f0f95d6665f3)
 
 <br />
-<br />
 
 Feel free to follow me on [twitter](https://twitter.com/saiashish09) 
 and [linked-in](https://www.linkedin.com/in/%F0%9F%9A%80-sai-ashish-237784188).
