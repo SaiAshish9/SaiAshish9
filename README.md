@@ -264,6 +264,15 @@ https://buymeacoffee.com/saiashish9
 <br />
 <br />
 
+I achieved the Candidate Master rank on Codeforces, a leading competitive programming platform.
+
+<br />
+
+<img width="910" height="530" alt="Screenshot 2026-08-09 at 12 12 54 PM" src="https://github.com/user-attachments/assets/4a889e2a-70f3-45f2-b92a-c54604662602" />
+
+<br />
+<br />
+
 Book a 1:1 slot with me on [topmate.io](https://topmate.io/saiashish9). I’ll email the professional development certificate(s) after the sessions along with reference numbers and consultation date
 
 <br />
