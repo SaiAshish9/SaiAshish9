@@ -232,6 +232,11 @@ Here is a compilation of the languages I am proficient in:
 <br />
 <br />
 
+<video src="https://github.com/user-attachments/assets/dc78b190-5f57-430e-b8b9-ecfde9491d5f" style="width: 100%; height: 200px; object-fit: contain;" controls></video>
+
+<br />
+<br />
+
 <img width="100%" alt="Screenshot 2025-10-23 at 10 24 46 AM" src="https://github.com/user-attachments/assets/b99af67e-2401-4b26-a4d7-67772dc9b721" />
 
 <br />
