@@ -232,8 +232,17 @@ Here is a compilation of the languages I am proficient in:
 <br />
 <br />
 
-<video src="https://github.com/user-attachments/assets/dc78b190-5f57-430e-b8b9-ecfde9491d5f" style="width: 100%; height: 200px; object-fit: contain;" controls></video>
+<div align="center">
+  <video
+    src="https://github.com/user-attachments/assets/dc78b190-5f57-430e-b8b9-ecfde9491d5f"
+    width="100%"
+    height="200"
+    controls>
+  </video>
+</div>
+<br />
 
+<img width="100%" alt="a" src="https://github.com/user-attachments/assets/8b08b2f8-d27e-4703-9278-a890c80e5f8e" />
 <br />
 <br />
 
