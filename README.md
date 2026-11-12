@@ -40,6 +40,7 @@ I worked as an mobile application development intern at [LambdaTest](https://git
   <tr>
     <td width="33%" style="padding: 10px;">
       <video src="https://github.com/user-attachments/assets/b4d6014e-ed35-4db1-aebe-e60f4674bd0b" style="width: 100%; height: 200px; object-fit: contain;" controls></video>
+      <p>Principal SEM at Microsoft, Redmond, USA</p>
     </td>
     <td width="33%" style="padding: 10px;">
       <video src="https://github.com/user-attachments/assets/8d2e51af-ae5a-4ee2-8d54-42b482df540f" style="width: 100%; height: 200px; object-fit: contain;" controls></video>
