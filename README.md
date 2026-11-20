@@ -303,7 +303,7 @@ I achieved the Candidate Master rank on Codeforces, a leading competitive progra
 
 <br />
 
-<img width="910" height="530" alt="Screenshot 2026-08-09 at 12 12 54 PM" src="https://github.com/user-attachments/assets/4a889e2a-70f3-45f2-b92a-c54604662602" />
+<img width="100%" height="530" alt="Screenshot 2026-08-09 at 12 12 54 PM" src="https://github.com/user-attachments/assets/4a889e2a-70f3-45f2-b92a-c54604662602" />
 
 <br />
 <br />
