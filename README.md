@@ -6,7 +6,15 @@ Myself Sai Ashish, application developer.
 
 I’m originally from Hyderabad, India, but I completed my B.Tech in Computer Science from MSIT, Indraprastha University, New Delhi.
 
-I passed out with a CGPA of 9.6 in 2022. <br /><br />
+I'm currently pursuing an M.Sc. in Computer Science, specialising in Artificial Intelligence, at the University of Freiburg, a member of the German U15 network, a University of Excellence, and part of the European Campus (EUCOR).
+<br>
+
+<img width="100%" alt="ufr" src="https://github.com/user-attachments/assets/baec4b89-6df7-4c33-9b79-3e1038dce53a" />
+
+<br>
+<br>
+
+I completed my bachelor's degree in 2022 with an outstanding CGPA of 9.6. <br /><br />
 🔗 https://www.ipuranklist.com/student/09315002718
 
 <br />
