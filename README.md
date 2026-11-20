@@ -308,6 +308,15 @@ I achieved the Candidate Master rank on Codeforces, a leading competitive progra
 <br />
 <br />
 
+My research paper on path finding algorithms got published at Information COnference On Emerging Technologies In Data Mining And Information Security.
+
+<br />
+
+<img width="100%" alt="image" src="https://github.com/user-attachments/assets/c9b8d581-62e5-47b2-b69d-f750882a8fad" />
+
+<br />
+<br />
+
 Book a 1:1 slot with me on [topmate.io](https://topmate.io/saiashish9). I’ll email the professional development certificate(s) after the sessions along with reference numbers and consultation date
 
 <br />
