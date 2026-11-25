@@ -41,6 +41,12 @@ After graduation, I worked as a full stack developer at [Tekion Corp](https://ww
 <br />
 <br />
 
+<img width="100%" alt="awardco" src="https://github.com/user-attachments/assets/7af32606-3dac-462b-8f22-9445880d110b" />
+
+<br />
+<br />
+
+
 I worked as an mobile application development intern at [LambdaTest](https://github.com/LambdaTest), Noida, India.
 
 <br />
