@@ -39,7 +39,6 @@ After graduation, I worked as a full stack developer at [Tekion Corp](https://ww
 <img width="100%" alt="Screenshot 2024-01-20 at 2 10 29 PM" src="https://github.com/SaiAshish9/SaiAshish9/assets/43849911/6adaa223-3efb-48c9-a22f-ebaecf0ab200">
 
 <br />
-<br />
 
 <img width="100%" alt="awardco" src="https://github.com/user-attachments/assets/7af32606-3dac-462b-8f22-9445880d110b" />
 
