@@ -10,16 +10,17 @@ I completed my bachelor's degree in 2022 with an outstanding CGPA of 9.6. <br />
 🔗 https://www.ipuranklist.com/student/09315002718
 
 <br />
-
 <img width="100%" alt="Screenshot 2024-01-04 at 8 27 01 PM" src="https://github.com/SaiAshish9/SaiAshish9/assets/43849911/376e0b12-7c59-439f-8ee9-3cc82912abe3">
 <br>
 <br>
 
 I'm currently pursuing an M.Sc. in Computer Science, specialising in Artificial Intelligence, at the University of Freiburg, a member of the German U15 network, a University of Excellence, and part of the European Campus (EUCOR).
 <br>
-<br>
 
 <img width="100%" alt="ufr" src="https://github.com/user-attachments/assets/baec4b89-6df7-4c33-9b79-3e1038dce53a" />
+
+<br>
+<img width="100%" alt="WhatsApp Image 2026-11-27 at 16 21 27" src="https://github.com/user-attachments/assets/3eab1df1-d29d-4d21-99bb-690a24d5aa79" />
 
 <br>
 <br>
