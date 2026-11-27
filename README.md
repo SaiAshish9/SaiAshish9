@@ -11,11 +11,12 @@ I completed my bachelor's degree in 2022 with an outstanding CGPA of 9.6. <br />
 
 <br />
 <img width="100%" alt="Screenshot 2024-01-04 at 8 27 01 PM" src="https://github.com/SaiAshish9/SaiAshish9/assets/43849911/376e0b12-7c59-439f-8ee9-3cc82912abe3">
-<br>
-<br>
+<br/>
+<br/>
 
 I'm currently pursuing an M.Sc. in Computer Science, specialising in Artificial Intelligence, at the University of Freiburg, a member of the German U15 network, a University of Excellence, and part of the European Campus (EUCOR).
-<br>
+<br/>
+<br/>
 
 <img width="100%" alt="ufr" src="https://github.com/user-attachments/assets/baec4b89-6df7-4c33-9b79-3e1038dce53a" />
 
@@ -139,6 +140,7 @@ I've made my own leetcode clone where I'll add solutions (3K+) of leetcode.
 ![lc](https://github.com/SaiAshish9/SaiAshish9/assets/43849911/7288ff8d-2cd5-4053-8007-784ecbbf1c0f)
 
 <br />
+<br />
 
 I've had my experimental [youtube](https://www.youtube.com/@saiashish9/) channel where I publish educational content.
 
@@ -183,6 +185,10 @@ My achievements were highlighted in my [college](https://msit.in) website.
 <br />
 
 <img width="100%" alt="Screenshot 2024-01-05 at 1 36 43 AM" src="https://github.com/SaiAshish9/SaiAshish9/assets/43849911/828af409-3aa3-4a01-9a9c-fb299b1d6a5d">
+
+<br />
+
+<img width="100%" alt="l" src="https://github.com/user-attachments/assets/cf004218-599f-42aa-9592-da02d98dda89" />
 
 <br />
 <br />
